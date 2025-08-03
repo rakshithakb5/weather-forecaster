@@ -22,6 +22,13 @@ A simple desktop weather forecasting application built using **Python** and **Tk
 - **API:** OpenWeatherMap (JSON REST API)
 
 ---
+🧠 Notes
+
+- This app uses a hardcoded API key from OpenWeatherMap.
+- Replace `bab4c7aa4f548d42ab3d6596f6ab14d0` with your own API key for production use.
+- Designed to demonstrate API integration + GUI in Python.
+
+---
 ## ⚠️ License
 
 This project is **proprietary**.  
@@ -42,8 +49,4 @@ python weather_forecaster.py
 
 
 
-🧠 Notes
 
-- This app uses a hardcoded API key from OpenWeatherMap.
-- Replace `bab4c7aa4f548d42ab3d6596f6ab14d0` with your own API key for production use.
-- Designed to demonstrate API integration + GUI in Python.
