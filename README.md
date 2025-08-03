@@ -22,8 +22,14 @@ A simple desktop weather forecasting application built using **Python** and **Tk
 - **API:** OpenWeatherMap (JSON REST API)
 
 ---
+## ⚠️ License
 
-## 🚀 Getting Started
+This project is **proprietary**.  
+You may **not** copy, reuse, or distribute any part of this code without written permission from the author.
+
+
+
+## 🚀 **How to Run**
 
 ### Prerequisites
 
@@ -34,13 +40,7 @@ A simple desktop weather forecasting application built using **Python** and **Tk
 pip install requests
 python weather_forecaster.py
 
->> How to Run
 
-Install dependencies:
-
-
-pip install requests
-python weather_forecaster.py
 
 🧠 Notes
 
