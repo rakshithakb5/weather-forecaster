@@ -34,15 +34,15 @@ A simple desktop weather forecasting application built using **Python** and **Tk
 pip install requests
 python weather_forecaster.py
 
-### How to Run
+>> How to Run
 
 Install dependencies:
 
-```bash
+
 pip install requests
 python weather_forecaster.py
 
-## 🧠 Notes
+🧠 Notes
 
 - This app uses a hardcoded API key from OpenWeatherMap.
 - Replace `bab4c7aa4f548d42ab3d6596f6ab14d0` with your own API key for production use.
